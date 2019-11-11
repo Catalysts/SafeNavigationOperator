@@ -32,7 +32,6 @@ import java.util.function.Supplier;
  * </br>
  *
  * @author Stefan Starke (stefan.starke@catalysts.cc)
- * @author Nikolaus Trixner (nikolaus.trixner@catalysts.cc)
  */
 public final class SafeNavigationOperator {
     /**
